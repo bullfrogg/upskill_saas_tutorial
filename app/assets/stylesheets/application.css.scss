@@ -15,3 +15,21 @@
  */
  
 @import 'bootstrap';
+
+.nav {
+background: linear-gradient(90deg, rgba(140,0,255,1) 0%, rgba(0,65,255,0.23433874709976799) 100%);    border: 0px;
+}
+
+.nav-link {
+    color: #F8F8F8;
+}
+
+.home-callout {
+   color: whitesmoke;
+}
+
+.splashpage {
+    background: linear-gradient(90deg, rgba(140,0,255,1) 0%, rgba(0,65,255,0.23433874709976799) 100%);    border: 0px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
