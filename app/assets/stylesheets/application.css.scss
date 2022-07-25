@@ -22,6 +22,10 @@ background: linear-gradient(90deg, rgba(140,0,255,1) 0%, rgba(0,65,255,0.2343387
 
 .nav-link {
     color: #F8F8F8;
+    &:hover {
+        color: white;
+        opacity: 0.75;
+    }
 }
 
 .home-callout {
